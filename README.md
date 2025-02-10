@@ -1,6 +1,8 @@
 1. Product Category Analysis (ITEM TYPE):
 Distribution by Product Type: Create a bar chart to show which product types (e.g., WINE, BEER, KEGS) make up the largest share of sales.
 Retail Sales by Product Type: Visualize sales by product type using a graph to compare sales volumes across different categories.
+![Uploading image.png…]()
+
 
 2. Sales Over Time Analysis (YEAR, MONTH):
 Sales Trends by Month: Create a line chart to show how RETAIL SALES change over time (by month). You can also add other categories (e.g., WAREHOUSE SALES) for comparison.
